@@ -1,2 +1,2 @@
 # ChainWaves
-'Chain Waves' is Boeun Kim's project for Generative Media Coding 2020 @Aalto University
+'Chain Waves' is project for Generative Media Coding 2020 @Aalto University by Boeun Kim
